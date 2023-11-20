@@ -1,1 +1,1 @@
-<img src="[https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/mothibimalebana/mothibimalebana/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.png)https://github.com/mothibimalebana/mothibimalebana/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.png" alt="banner that says Mothibi - software developer">
+
