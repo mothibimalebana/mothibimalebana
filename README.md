@@ -114,16 +114,13 @@
 
 <br/>  
 
-
-## Connect with me  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mothibimalebana?cardType=level&theme=bear&preferLogin=false)](https://git.io/awesome-stats-card) 
-  
-
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mothibimalebana&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+<div class="flext justify-center">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mothibimalebana?cardType=level&theme=bear&preferLogin=false)](https://git.io/awesome-stats-card) 
+</div>
+
 
 ----
