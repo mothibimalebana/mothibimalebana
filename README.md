@@ -118,9 +118,7 @@
 
 
 ## Github Stats  
-<div class="flext justify-center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mothibimalebana?cardType=level&theme=bear&preferLogin=false)](https://git.io/awesome-stats-card) 
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mothibimalebana?cardType=level&theme=bear&preferLogin=false)](https://git.io/awesome-stats-card) 
 
 
 ----
